@@ -1,0 +1,6 @@
+Initialize Git(Making your folder or file as git ) -git init 
+Adding files to this folder -git add file1.txt
+commit changes : git commit - m "message:changes have been comitted"
+upload on github :git push origin - u
+to check status : git status
+to check log : git log
